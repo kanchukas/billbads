@@ -1,6 +1,30 @@
 {
-  "largeUrl": "https://raw.githubusercontent.com/kanchukas/billbads/ads/large_banner.png",
-  "mediumUrl": "https://raw.githubusercontent.com/kanchukas/billbads/ads/medium_banner.png",
-  "smallUrl": "https://raw.githubusercontent.com/kanchukas/billbads/ads/small_banner.png",
-  "tallUrl": "https://raw.githubusercontent.com/kanchukas/billbads/ads/tall_banner.png"
+  "largeUrls": [
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/large_1.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/large_2.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/large_3.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/large_4.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/large_5.png?v=1"
+  ],
+  "mediumUrls": [
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/medium_1.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/medium_2.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/medium_3.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/medium_4.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/medium_5.png?v=1"
+  ],
+  "smallUrls": [
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/small_1.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/small_2.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/small_3.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/small_4.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/small_5.png?v=1"
+  ],
+  "tallUrls": [
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/tall_1.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/tall_2.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/tall_3.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/tall_4.png?v=1",
+    "https://raw.githubusercontent.com/kanchukas/billbads/main/ads/tall_5.png?v=1"
+  ]
 }
